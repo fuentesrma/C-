@@ -1,0 +1,15 @@
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\bin\Debug\CitaMedica.exe
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\bin\Debug\CitaMedica.pdb
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.Form1.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.Form2.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.inicial.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.MDIForm.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.Pacientes.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.Properties.Resources.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.Usuarios.resources
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.exe
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.pdb
+C:\Users\MORG780518\documents\visual studio 2010\Projects\CitaMedica\CitaMedica\obj\x86\Debug\CitaMedica.Consulta.resources
